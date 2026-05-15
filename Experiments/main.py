@@ -1,5 +1,6 @@
 import sys
-sys.path.insert(0,"/home/usuario/Doctorado/subgroups_berryfinder/src")
+# ADD PATH TO IMPORT MODELS
+sys.path.insert(0,"")
 
 from subgroups.algorithms.subgroup_sets.idsd import IDSD
 from subgroups.algorithms.subgroup_sets.bsd import BSD
