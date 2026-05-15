@@ -1,0 +1,11 @@
+Description: [culture_microorganism_name = 'ENTEROCOCCUS FAECIUM'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [culture_specimen_type_description = 'BLOOD CULTURE'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [icu_when_culture = 'NO ICU'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [discharge_location = 'REHAB/DISTINCT PART HOSP'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [service_when_culture = 'OMED'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [admission_location = 'TRANSFER FROM HOSP/EXTRAM', patient_gender = 'M'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [patient_gender = 'M', service_when_culture = 'SURG'], Target: culture_susceptibility = 'R' ; Rank : 6
+Description: [admission_type = 'EMERGENCY', service_when_culture = 'SURG'], Target: culture_susceptibility = 'R' ; Rank : 4
+Description: [admission_type = 'EMERGENCY', exitus = 'Y'], Target: culture_susceptibility = 'R' ; Rank : 4
+Description: [admission_type = 'EMERGENCY', discharge_location = 'DEAD/EXPIRED'], Target: culture_susceptibility = 'R' ; Rank : 4

@@ -1,0 +1,4 @@
+Number of visited subgroups:  1443113
+Number of credible subgroups:  None
+Number of selected subgroups:  100
+Number of pruned subgroups:  87068

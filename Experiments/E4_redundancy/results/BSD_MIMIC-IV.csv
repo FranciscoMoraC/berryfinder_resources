@@ -1,0 +1,4 @@
+,Description,Quality,tp,fp,TP,FP
+2,ab_name = 'ERYTHROMYCIN',98.55522049999102,7963,5523,26527,80485
+1,"ab_name = 'ERYTHROMYCIN', treatment_last_180_days = 'False'",97.67303267208761,7861,5471,26527,80485
+0,"ab_name = 'ERYTHROMYCIN', language = 'English', treatment_last_180_days = 'False'",94.64557411015993,7287,4948,26527,80485

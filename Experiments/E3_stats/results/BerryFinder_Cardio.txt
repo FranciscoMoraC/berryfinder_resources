@@ -1,0 +1,4 @@
+Number of visited subgroups:  130
+Number of credible subgroups:  2
+Number of selected subgroups:  2
+Number of pruned subgroups:  10

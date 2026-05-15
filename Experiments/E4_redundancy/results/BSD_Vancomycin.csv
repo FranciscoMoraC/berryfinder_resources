@@ -1,0 +1,8 @@
+,Description,Quality,tp,fp,TP,FP
+6,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',14.299319480518372,329,55,329,118
+5,"admission_type = 'EMERGENCY', culture_microorganism_name = 'ENTEROCOCCUS FAECIUM'",12.458243075802182,312,50,329,118
+4,culture_specimen_type_description = 'BLOOD CULTURE',10.920020639368605,303,53,329,118
+3,"admission_type = 'EMERGENCY', culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', culture_specimen_type_description = 'BLOOD CULTURE'",10.10797428040731,288,48,329,118
+2,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', patient_gender = 'M'",6.3656457625672624,196,30,329,118
+1,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', exitus = 'N'",5.8498312871955624,184,29,329,118
+0,"culture_microorganism_name = 'ENTEROCOCCUS FAECIUM', exitus = 'Y'",4.226034017703378,145,26,329,118

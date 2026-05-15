@@ -1,0 +1,84 @@
+,Description,Quality,tp,fp,TP,FP
+82,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08171552750246071,1473,753,2209,2215
+81,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08105917419042602,1541,827,2209,2215
+80,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08104599194268317,1498,784,2209,2215
+79,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08060188303810546,1522,812,2209,2215
+78,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.0804758341808122,1479,770,2209,2215
+77,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.08038994519454956,1567,859,2209,2215
+76,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07992284399739708,1516,812,2209,2215
+75,"Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07981948086877758,1547,844,2209,2215
+74,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07957872601852788,1498,797,2209,2215
+73,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07934287619069419,1465,766,2209,2215
+72,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07912940552763327,1505,808,2209,2215
+71,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07910365415994952,1421,724,2209,2215
+70,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07909108504000863,1380,683,2209,2215
+69,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07874880644454543,1368,674,2209,2215
+68,"Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.0787021576376104,1584,891,2209,2215
+67,"Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07869725261519446,1568,875,2209,2215
+66,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Tuition_fees_up_to_date = '1'",0.07864820239103494,1408,715,2209,2215
+65,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07863502014329203,1365,672,2209,2215
+64,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', International = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07857304314130717,1531,839,2209,2215
+63,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07855832807405931,1483,791,2209,2215
+62,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07853288327027656,1400,708,2209,2215
+61,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.078432585780667,1441,750,2209,2215
+60,"Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07835773309484025,1565,875,2209,2215
+59,"Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07823996146287387,1549,860,2209,2215
+58,"Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07818692590800139,1376,687,2209,2215
+57,"Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.0781157519889866,1512,824,2209,2215
+56,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Tuition_fees_up_to_date = '1'",0.07808938749350085,1426,738,2209,2215
+55,"Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07797529462834643,1422,735,2209,2215
+54,"Debtor = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07775630581506757,1444,759,2209,2215
+53,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07773975136441373,1390,705,2209,2215
+52,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07751371158141193,1389,706,2209,2215
+51,"Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', International = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07744958863212002,1548,866,2209,2215
+50,"Debtor = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07744560330140711,1535,853,2209,2215
+49,"Debtor = '0', Educational_special_needs = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07741218783619841,1426,744,2209,2215
+48,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07740605655817849,1406,724,2209,2215
+47,"Gender = '0', Tuition_fees_up_to_date = '1'",0.07736461933756038,1639,958,2209,2215
+46,"Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07730974439928189,1460,779,2209,2215
+45,"Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.0772183372628013,1530,850,2209,2215
+44,"Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07707849302996314,1442,763,2209,2215
+43,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",0.07702305605786619,893,213,2209,2215
+42,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",0.07702274949396519,892,212,2209,2215
+41,"Debtor = '0', Educational_special_needs = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07698831214908654,1516,838,2209,2215
+40,"Daytime/evening_attendance	 = '1', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07696286734530378,1433,755,2209,2215
+39,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",0.07690773693710778,885,206,2209,2215
+38,"Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07690702162133878,1619,942,2209,2215
+37,"Curricular_units_1st_sem_(approved) = '6', Tuition_fees_up_to_date = '1'",0.07668690874042294,901,224,2209,2215
+36,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Tuition_fees_up_to_date = '1'",0.07662947910296951,1450,775,2209,2215
+35,"Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07662457408055355,1434,759,2209,2215
+34,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.0766166034191276,1408,733,2209,2215
+33,"Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07653408663577595,1507,833,2209,2215
+32,"Debtor = '0', Gender = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07650557619298322,1414,740,2209,2215
+31,"Daytime/evening_attendance	 = '1', Educational_special_needs = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07650557619298322,1414,740,2209,2215
+30,"Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07633778355117082,1603,931,2209,2215
+29,"Educational_special_needs = '0', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",0.07618966209300572,1488,817,2209,2215
+28,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07617218795064891,1431,760,2209,2215
+27,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07616023195851003,1392,721,2209,2215
+26,"Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07605809508549455,1427,757,2209,2215
+25,"Daytime/evening_attendance	 = '1', Debtor = '0', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07605441631868255,1415,745,2209,2215
+24,"Educational_special_needs = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07599335900840064,1584,915,2209,2215
+23,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07592928715309231,1375,706,2209,2215
+22,"Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07591978367216136,1344,675,2209,2215
+21,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Tuition_fees_up_to_date = '1'",0.07577723145819777,879,210,2209,2215
+20,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Tuition_fees_up_to_date = '1'",0.07577692489429677,878,209,2209,2215
+19,"Daytime/evening_attendance	 = '1', Gender = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07571152459541741,1401,734,2209,2215
+18,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Tuition_fees_up_to_date = '1'",0.07566191233743937,871,203,2209,2215
+17,"Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07558700855762909,1363,697,2209,2215
+16,"Gender = '0', International = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07550817054108937,1474,809,2209,2215
+15,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07545758749742486,1309,644,2209,2215
+14,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(without_evaluations) = '0'",0.07544752198267546,908,242,2209,2215
+13,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0'",0.07544721541877446,907,241,2209,2215
+12,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0'",0.07544506947146747,900,234,2209,2215
+11,"Curricular_units_1st_sem_(approved) = '6', Educational_special_needs = '0', Tuition_fees_up_to_date = '1'",0.07544108414075454,887,221,2209,2215
+10,"Daytime/evening_attendance	 = '1', Gender = '0', Tuition_fees_up_to_date = '1'",0.07540235490126192,1497,833,2209,2215
+9,"Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07537353789456817,1403,739,2209,2215
+8,"Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07537169851116222,1397,733,2209,2215
+7,"Educational_special_needs = '0', Gender = '0', Marital_status = '1', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07527691917177061,1456,793,2209,2215
+6,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",0.07526465661573074,1416,753,2209,2215
+5,"Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07489662665258379,1320,660,2209,2215
+4,Curricular_units_1st_sem_(approved) = '6',0.0748856414461314,916,255,2209,2215
+3,"Daytime/evening_attendance	 = '1', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",0.07483189057548992,1477,818,2209,2215
+2,"Debtor = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07481012453851911,1406,747,2209,2215
+1,"Curricular_units_1st_sem_(without_evaluations) = '0', Educational_special_needs = '0', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.0746883675758398,1377,719,2209,2215
+0,"Curricular_units_2nd_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",0.07467426563639393,1331,673,2209,2215

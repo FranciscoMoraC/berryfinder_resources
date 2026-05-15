@@ -1,0 +1,5 @@
+WARNING: LIMIT NOT TESTED
+Total covered instances validation:  0.5595667870036101
+Target covered instances validation:  0.7989690721649485
+Negative target covered instances validation:  0.0
+Selected subgroups:  6140

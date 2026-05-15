@@ -1,0 +1,4 @@
+Total covered instances validation:  0.847457627118644
+Target covered instances validation:  1.0
+Negative target covered instances validation:  0.7804878048780488
+Selected subgroups:  124

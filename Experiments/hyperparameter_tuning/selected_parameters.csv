@@ -1,0 +1,37 @@
+Dataset	Model	Quality measure / OR & PPV
+Mushroom	BSD	Piatetsky
+Mushroom	SDMap*	WRAcc
+Mushroom	BerryFinder	Inf/0.5
+Chess	BSD	WRAcc
+Chess	SDMap*	-
+Chess	BerryFinder	1.8/0.99
+Student	BSD	WRAcc
+Student	SDMap*	-
+Student	BerryFinder	6.0/0.6
+Connect	BSD	Biomial
+Connect	SDMap*	-
+Connect	BerryFinder	1.2/0.8
+Healthy Aging	BSD	Binomial
+Healthy Aging	SDMap*	Piatetsky
+Healthy Aging	BerryFinder	1.2 / 0.50
+Car	BSD	Binomial
+Car	SDMap*	WRAcc
+Car	BerryFinder	3.0 / 0.60
+Soybean	BSD	WRAcc
+Soybean	SDMap*	-
+Soybean	BerryFinder	20.0 / 0.6
+Dermatology	BSD	Piatetsky
+Dermatology	SDMap*	-
+Dermatology	BerryFinder	inf / 0.95
+Depression	BSD	Piatetsky
+Depression	SDMap*	WRAcc
+Depression	BerryFinder	6.0/0.6
+Vancomycin	BSD	Binomial
+Vancomycin	SDMap*	Piatetsky
+Vancomycin	BerryFinder	1.2/0.8
+MIMIC-IV	BSD	Binomial
+MIMIC-IV	SDMap*	WRAcc
+MIMIC-IV	BerryFinder	1.8/0.40
+Cardio	BSD	Binomial
+Cardio	SDMap*	WRAcc
+Cardio	BerryFinder	1.2 / 0.4

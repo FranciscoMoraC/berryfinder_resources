@@ -1,0 +1,12 @@
+,Description,tp,fp,TP,FP
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',329,55,329,118
+1,culture_specimen_type_description = 'BLOOD CULTURE',303,53,329,118
+2,icu_when_culture = 'NO ICU',137,27,329,118
+3,discharge_location = 'REHAB/DISTINCT PART HOSP',78,12,329,118
+4,service_when_culture = 'OMED',48,2,329,118
+5,"admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'",41,4,329,118
+6,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', patient_gender = 'M'",47,8,329,118
+7,"patient_gender = 'M', service_when_culture = 'SURG'",70,13,329,118
+8,"admission_type = 'EMERGENCY', service_when_culture = 'SURG'",85,18,329,118
+9,"admission_type = 'EMERGENCY', exitus = 'Y'",141,33,329,118
+10,"admission_type = 'EMERGENCY', discharge_location = 'DEAD/EXPIRED'",141,33,329,118
