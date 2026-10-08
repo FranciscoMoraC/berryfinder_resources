@@ -1,0 +1,110 @@
+,Description,Rank
+0,"gill-color = 'n', gill-size = 'b'",6
+1,"odor = 'n', stalk-root = 'e'",6
+2,"bruises = 'f', stalk-root = 'e'",6
+3,"gill-spacing = 'w', habitat = 'g'",6
+4,"gill-spacing = 'w', ring-type = 'e', stalk-color-above-ring = 'w'",6
+5,"gill-spacing = 'w', ring-type = 'e', veil-color = 'w'",6
+6,"bruises = 'f', gill-spacing = 'w', odor = 'n', veil-color = 'w'",6
+7,"bruises = 'f', odor = 'n', stalk-color-below-ring = 'w'",6
+8,"bruises = 'f', gill-spacing = 'w', odor = 'n', stalk-color-above-ring = 'w'",6
+9,"gill-size = 'b', gill-spacing = 'w'",6
+10,"bruises = 'f', gill-size = 'b', odor = 'n'",6
+11,"gill-spacing = 'w', stalk-shape = 't'",6
+12,"bruises = 'f', gill-size = 'b', stalk-color-below-ring = 'w'",6
+13,"bruises = 'f', gill-size = 'b', stalk-color-above-ring = 'w'",6
+14,"bruises = 't', population = 'y'",6
+15,"bruises = 't', habitat = 'd'",6
+16,"odor = 'n', population = 'y'",6
+17,"population = 'y', ring-type = 'p'",6
+18,"population = 'y', stalk-shape = 't'",6
+19,"habitat = 'd', stalk-root = 'b', stalk-shape = 't'",6
+20,"population = 'y', stalk-surface-below-ring = 's'",6
+21,"population = 'y', stalk-surface-above-ring = 's'",6
+22,"cap-color = 'g', odor = 'n'",6
+23,"odor = 'n', spore-print-color = 'k'",6
+24,"spore-print-color = 'k', stalk-shape = 't'",6
+25,"habitat = 'd', ring-type = 'p', stalk-shape = 't'",6
+26,"gill-size = 'b', spore-print-color = 'k'",6
+27,"gill-size = 'b', habitat = 'd', ring-type = 'p'",6
+28,"gill-size = 'b', habitat = 'd', stalk-surface-below-ring = 's'",6
+29,"gill-size = 'b', habitat = 'd', stalk-surface-above-ring = 's'",6
+30,"bruises = 't', spore-print-color = 'k', stalk-root = 'b'",6
+31,"odor = 'n', spore-print-color = 'n'",6
+32,"spore-print-color = 'n', stalk-shape = 't'",6
+33,"gill-size = 'b', spore-print-color = 'n'",6
+34,"bruises = 't', spore-print-color = 'n', stalk-root = 'b'",6
+35,"bruises = 'f', habitat = 'g', odor = 'n'",6
+36,"bruises = 'f', habitat = 'g', stalk-color-below-ring = 'w'",6
+37,"bruises = 'f', habitat = 'g', stalk-color-above-ring = 'w'",6
+38,"cap-color = 'n', odor = 'n', ring-type = 'p'",6
+39,"odor = 'n', stalk-shape = 't'",6
+40,"cap-color = 'n', odor = 'n', stalk-surface-below-ring = 's'",6
+41,"cap-color = 'n', odor = 'n', stalk-surface-above-ring = 's'",6
+42,"cap-color = 'n', gill-size = 'b', odor = 'n'",6
+43,"cap-color = 'n', gill-size = 'b', ring-type = 'p'",6
+44,"cap-color = 'n', gill-size = 'b', stalk-surface-above-ring = 's'",6
+45,"cap-color = 'n', gill-size = 'b', stalk-shape = 't'",6
+46,"cap-color = 'n', gill-size = 'b', stalk-surface-below-ring = 's'",6
+47,"cap-color = 'n', gill-size = 'b', ring-number = 'o'",6
+48,"bruises = 't', cap-surface = 'f'",6
+49,"cap-surface = 'f', odor = 'n', stalk-root = 'b'",6
+50,"habitat = 'd', odor = 'n', stalk-root = 'b'",6
+51,"cap-surface = 'f', odor = 'n', ring-type = 'p'",6
+52,"habitat = 'd', odor = 'n', ring-type = 'p'",6
+53,"cap-surface = 'f', stalk-shape = 't'",6
+54,"cap-surface = 'f', odor = 'n', stalk-surface-below-ring = 's'",6
+55,"habitat = 'd', odor = 'n', stalk-surface-below-ring = 's'",6
+56,"cap-surface = 'f', odor = 'n', stalk-surface-above-ring = 's'",6
+57,"habitat = 'd', odor = 'n', stalk-surface-above-ring = 's'",6
+58,"cap-surface = 'f', gill-size = 'b', odor = 'n'",6
+59,"gill-size = 'b', habitat = 'd', odor = 'n'",6
+60,"cap-surface = 'f', gill-size = 'b', ring-type = 'p'",6
+61,"cap-surface = 'f', gill-size = 'b', stalk-surface-below-ring = 's'",6
+62,"cap-surface = 'f', gill-size = 'b', stalk-surface-above-ring = 's'",6
+63,"cap-surface = 'f', odor = 'n', stalk-color-below-ring = 'w'",6
+64,"cap-surface = 'f', gill-size = 'b', stalk-color-above-ring = 'w'",6
+65,"cap-surface = 'f', gill-size = 'b', stalk-color-below-ring = 'w'",6
+66,"odor = 'n', ring-type = 'e', stalk-color-below-ring = 'w'",6
+67,"gill-size = 'b', ring-type = 'e'",6
+68,"cap-shape = 'f', habitat = 'd', ring-type = 'p'",6
+69,"cap-shape = 'f', habitat = 'd', stalk-root = 'b', stalk-surface-below-ring = 's'",6
+70,"cap-shape = 'f', habitat = 'd', stalk-root = 'b', stalk-surface-above-ring = 's'",6
+71,"gill-size = 'b', habitat = 'd', stalk-shape = 't'",6
+72,"cap-surface = 'y', habitat = 'd', ring-type = 'p'",6
+73,"cap-surface = 'y', stalk-root = 'b', stalk-shape = 't'",6
+74,"cap-surface = 'y', habitat = 'd', stalk-root = 'b', stalk-surface-below-ring = 's'",6
+75,"cap-surface = 'y', habitat = 'd', stalk-root = 'b', stalk-surface-above-ring = 's'",6
+76,"cap-surface = 'y', gill-size = 'b', stalk-shape = 't'",6
+77,"cap-shape = 'x', odor = 'n', stalk-root = 'b'",6
+78,"cap-shape = 'x', odor = 'n', ring-type = 'p'",6
+79,"cap-shape = 'x', odor = 'n', stalk-surface-below-ring = 's'",6
+80,"cap-shape = 'x', odor = 'n', stalk-surface-above-ring = 's'",6
+81,"cap-shape = 'x', gill-size = 'b', odor = 'n'",6
+82,"gill-size = 'b', odor = 'n', ring-number = 'o'",6
+83,"bruises = 't', gill-spacing = 'c', odor = 'n', ring-number = 'o'",6
+84,"gill-spacing = 'c', odor = 'n', ring-number = 'o', stalk-root = 'b'",6
+85,"gill-spacing = 'c', odor = 'n', ring-number = 'o', ring-type = 'p'",6
+86,"gill-spacing = 'c', odor = 'n', ring-number = 'o', stalk-surface-below-ring = 's'",6
+87,"gill-spacing = 'c', odor = 'n', ring-number = 'o', stalk-surface-above-ring = 's'",6
+88,"bruises = 't', cap-surface = 'y', stalk-shape = 't'",6
+89,"cap-surface = 'y', ring-type = 'p', stalk-shape = 't'",6
+90,"bruises = 't', cap-surface = 'y', gill-size = 'b', ring-number = 'o'",6
+91,"bruises = 't', cap-surface = 'y', gill-spacing = 'c', ring-number = 'o', stalk-root = 'b'",6
+92,"cap-surface = 'y', gill-size = 'b', ring-number = 'o', ring-type = 'p'",6
+93,"cap-surface = 'y', gill-size = 'b', ring-number = 'o', stalk-surface-below-ring = 's'",6
+94,"cap-surface = 'y', gill-size = 'b', ring-number = 'o', stalk-surface-above-ring = 's'",6
+95,"cap-surface = 'y', gill-spacing = 'c', ring-number = 'o', ring-type = 'p', stalk-root = 'b'",6
+96,"cap-surface = 'y', gill-spacing = 'c', ring-number = 'o', stalk-root = 'b', stalk-surface-below-ring = 's'",6
+97,"cap-surface = 'y', gill-spacing = 'c', ring-number = 'o', stalk-root = 'b', stalk-surface-above-ring = 's'",6
+98,"bruises = 't', cap-shape = 'x', odor = 'n'",6
+99,"bruises = 't', odor = 'n', population = 'v', ring-number = 'o'",6
+100,"odor = 'n', population = 'v', ring-number = 'o', stalk-root = 'b'",6
+101,"odor = 'n', population = 'v', ring-number = 'o', ring-type = 'p'",6
+102,"odor = 'n', population = 'v', ring-number = 'o', stalk-surface-below-ring = 's'",6
+103,"odor = 'n', population = 'v', ring-number = 'o', stalk-surface-above-ring = 's'",6
+104,"gill-size = 'b', ring-number = 'o', ring-type = 'p', stalk-shape = 'e'",6
+105,"gill-size = 'b', ring-number = 'o', stalk-shape = 'e', stalk-surface-above-ring = 's'",6
+106,"cap-shape = 'x', odor = 'n', stalk-color-below-ring = 'w'",6
+107,"bruises = 'f', odor = 'n', stalk-surface-below-ring = 's'",6
+108,"bruises = 'f', odor = 'n', stalk-surface-above-ring = 's'",6

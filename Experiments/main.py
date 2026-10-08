@@ -8,6 +8,7 @@ from subgroups.algorithms.subgroup_sets.bsd import BSD
 from subgroups.algorithms.subgroup_sets.sdmapstar import SDMapStar
 from subgroups.algorithms.subgroup_sets.vlsd import VLSD
 from subgroups.algorithms.subgroup_sets.berryfinder import BerryFinder
+from subgroups.algorithms.subgroup_sets.excover import ExCover
 from subgroups.quality_measures.wracc import WRAcc
 from subgroups.quality_measures.wracc_optimistic_estimate_1 import WRAccOptimisticEstimate1
 from subgroups.quality_measures.binomial_test import BinomialTest
@@ -136,6 +137,8 @@ def get_model(model, write,database = None):
         return BerryFinder(max_complexity=params["max_size"], write_results_in_file=write, file_path=output_file, min_rank = params["min_rank"], 
                    coverage_thld = params["coverage_thld"], ppv_thld = params["ppv_thld"], or_thld = params["or_thld"], p_val_thld = params["p_val_thld"], abs_contribution_thld = params["abs_contribution_thld"], contribution_thld = params["contribution_thld"]
                    ), id
+    elif model == "ExCover":
+        return ExCover(max_depth=params["max_size"], write_results_in_file=write, file_path=output_file), id
         # if params["ppv_thld"] is None:
         #     return PFinder(max_complexity=params["max_size"], write_results_in_file=write, file_path=output_file, min_rank = params["min_rank"], 
         #                coverage_thld = params["coverage_thld"], ppv_thld = 0, or_thld = params["or_thld"], p_val_thld = params["p_val_thld"], abs_contribution_thld = params["abs_contribution_thld"], contribution_thld = params["contribution_thld"]
@@ -784,7 +787,33 @@ def validation_covered_instances(model, database):
     total_covered_instances_validation, target_covered_instances_validation, negative_target_covered_instances_validation = compute_covered_instances(model, id, df_validation, target, database, remove_file=True)
     return total_covered_instances_validation, target_covered_instances_validation, negative_target_covered_instances_validation, sd.selected_subgroups
 
-
+def k_fold_covered_instances(model, database):
+    df = get_data(database)
+    target = get_target(database)
+    folds = get_folds(df,target)
+    total_covered_instances_train_list = []
+    target_covered_instances_train_list = []
+    negative_target_covered_instances_train_list = []
+    total_covered_instances_test_list = []
+    target_covered_instances_test_list = []
+    negative_target_covered_instances_test_list = []
+    selected_subgroups_list = []
+    for i in range(len(folds)):
+        df_train, df_test = folds[i]
+        params["validation"] = True
+        sd, id = get_model(model, write = True, database=database)
+        sd.fit(df_train, target)
+        total_covered_instances_train, target_covered_instances_train, negative_target_covered_instances_train = compute_covered_instances(model, id, df_train, target, database, remove_file=False)
+        total_covered_instances_test, target_covered_instances_test, negative_target_covered_instances_test = compute_covered_instances(model, id, df_test, target, database, remove_file=True)
+        total_covered_instances_train_list.append(total_covered_instances_train)
+        target_covered_instances_train_list.append(target_covered_instances_train)
+        negative_target_covered_instances_train_list.append(negative_target_covered_instances_train)
+        total_covered_instances_test_list.append(total_covered_instances_test)
+        target_covered_instances_test_list.append(target_covered_instances_test)
+        negative_target_covered_instances_test_list.append(negative_target_covered_instances_test)
+        selected_subgroups_list.append(sd.selected_subgroups)
+    return total_covered_instances_train_list, target_covered_instances_train_list, negative_target_covered_instances_train_list, \
+            total_covered_instances_test_list, target_covered_instances_test_list, negative_target_covered_instances_test_list, selected_subgroups_list
 
 if __name__ == "__main__":
     # print(sys.argv)    
@@ -897,6 +926,15 @@ if __name__ == "__main__":
         print("Target covered instances validation: ", target_covered_instances_validation)
         print("Negative target covered instances validation: ", negative_target_covered_instances_validation)
         print("Selected subgroups: ", selected_subgroups)
+    elif mode == "k_fold_covered_instances":
+        total_train, positive_train, negative_train, total_test, positive_test, negative_test, selected_subgroups_list = k_fold_covered_instances(model,database)
+        print("Total train covered instances list: ", total_train)
+        print("Target train covered instances list: ", positive_train)
+        print("Negative target train covered instances list: ", negative_train)
+        print("Total test covered instances list: ", total_test)
+        print("Target test covered instances list: ", positive_test)
+        print("Negative target test covered instances list: ", negative_test)
+        print("Selected subgroups list: ", selected_subgroups_list)
     elif mode == "stats":
         df = get_data(database)
         target = get_target(database)

@@ -1,0 +1,6 @@
+Total train covered instances list:  [np.float64(0.9490022172949002), np.float64(0.9711751662971175), np.float64(0.9823008849557522), np.float64(0.9491150442477876), np.float64(0.9712389380530974), np.float64(0.9535398230088495), np.float64(0.9358407079646017), np.float64(0.9712389380530974), np.float64(0.9557522123893806), np.float64(0.9424778761061947)]
+Target train covered instances list:  [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Negative target train covered instances list:  [0.8977777777777778, 0.9422222222222222, 0.9644444444444444, 0.8977777777777778, 0.9422222222222222, 0.9066666666666666, 0.8711111111111111, 0.9422222222222222, 0.9111111111111111, 0.8844444444444445]
+Total test covered instances list:  [np.float64(0.9215686274509803), np.float64(0.9803921568627451), np.float64(1.0), np.float64(0.98), np.float64(0.98), np.float64(0.88), np.float64(0.96), np.float64(0.98), np.float64(0.94), np.float64(0.98)]
+Target test covered instances list:  [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+Negative target test covered instances list:  [0.84, 0.96, 1.0, 0.96, 0.96, 0.76, 0.92, 0.96, 0.88, 0.96]

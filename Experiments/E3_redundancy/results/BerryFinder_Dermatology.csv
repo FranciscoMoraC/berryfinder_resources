@@ -1,0 +1,178 @@
+,Description,Rank
+173,"fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",5
+174,"fibrosis_papillary_dermis = '0', melanin_incontinence = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",5
+175,"fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', polygonal_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",5
+176,"fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",5
+0,thinning_suprapapillary_epidermis = '2',6
+1,"disappearance_granular_layer = '2', spongiosis = '0'",6
+2,"elongation_rete_ridges = '3', fibrosis_papillary_dermis = '0'",6
+3,"exocytosis = '0', follicular_papules = '0', scalp_involvement = '2'",6
+4,"follicular_papules = '0', scalp_involvement = '2', spongiosis = '0'",6
+5,"exocytosis = '0', follicular_horn_plug = '0', scalp_involvement = '2'",6
+6,"band_like_infiltrate = '0', follicular_horn_plug = '0', scalp_involvement = '2', spongiosis = '0'",6
+7,"exocytosis = '0', perifollicular_parakeratosis = '0', scalp_involvement = '2'",6
+8,"perifollicular_parakeratosis = '0', scalp_involvement = '2', spongiosis = '0'",6
+9,"eosinophils_infiltrate = '0', follicular_papules = '0', scalp_involvement = '2'",6
+10,"eosinophils_infiltrate = '0', perifollicular_parakeratosis = '0', scalp_involvement = '2'",6
+11,"band_like_infiltrate = '0', eosinophils_infiltrate = '0', follicular_horn_plug = '0', scalp_involvement = '2'",6
+12,"clubbing_rete_ridges = '2', spongiosis = '0'",6
+13,"clubbing_rete_ridges = '2', fibrosis_papillary_dermis = '0'",6
+14,"clubbing_rete_ridges = '2', exocytosis = '0'",6
+15,"clubbing_rete_ridges = '2', definite_borders = '2'",6
+16,"exocytosis = '0', knee_and_elbow_involvement = '2'",6
+17,"definite_borders = '2', follicular_papules = '0', knee_and_elbow_involvement = '2'",6
+18,"band_like_infiltrate = '0', follicular_papules = '0', knee_and_elbow_involvement = '2'",6
+19,"definite_borders = '2', follicular_horn_plug = '0', knee_and_elbow_involvement = '2'",6
+20,"band_like_infiltrate = '0', follicular_horn_plug = '0', knee_and_elbow_involvement = '2'",6
+21,"definite_borders = '2', knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0'",6
+22,"band_like_infiltrate = '0', knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0'",6
+23,"follicular_horn_plug = '0', knee_and_elbow_involvement = '2', vacuolisation_damage_basal_layer = '0'",6
+24,"knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0', vacuolisation_damage_basal_layer = '0'",6
+25,"follicular_papules = '0', knee_and_elbow_involvement = '2', saw_tooth_appearance_retes = '0'",6
+26,"follicular_horn_plug = '0', knee_and_elbow_involvement = '2', saw_tooth_appearance_retes = '0'",6
+27,"knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0'",6
+28,"focal_hypergranulosis = '0', follicular_papules = '0', knee_and_elbow_involvement = '2'",6
+29,"focal_hypergranulosis = '0', follicular_horn_plug = '0', knee_and_elbow_involvement = '2'",6
+30,"focal_hypergranulosis = '0', knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0'",6
+31,"follicular_papules = '0', knee_and_elbow_involvement = '2', melanin_incontinence = '0'",6
+32,"follicular_horn_plug = '0', knee_and_elbow_involvement = '2', melanin_incontinence = '0'",6
+33,"knee_and_elbow_involvement = '2', melanin_incontinence = '0', perifollicular_parakeratosis = '0'",6
+34,"follicular_papules = '0', knee_and_elbow_involvement = '2', polygonal_papules = '0'",6
+35,"follicular_horn_plug = '0', knee_and_elbow_involvement = '2', polygonal_papules = '0'",6
+36,"knee_and_elbow_involvement = '2', perifollicular_parakeratosis = '0', polygonal_papules = '0'",6
+37,"follicular_papules = '0', knee_and_elbow_involvement = '2', vacuolisation_damage_basal_layer = '0'",6
+38,"PNL_infiltrate = '1', eosinophils_infiltrate = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+39,"band_like_infiltrate = '0', eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+40,"eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+41,"eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+42,"eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', spongiosis = '0'",6
+43,"eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', spongiosis = '0'",6
+44,"eosinophils_infiltrate = '0', erythema = '3', fibrosis_papillary_dermis = '0', polygonal_papules = '0', spongiosis = '0'",6
+45,"elongation_rete_ridges = '2', exocytosis = '0', fibrosis_papillary_dermis = '0'",6
+46,"elongation_rete_ridges = '2', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+47,"exocytosis = '0', fibrosis_papillary_dermis = '0', itching = '0'",6
+48,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_papules = '0', itching = '0', spongiosis = '0'",6
+49,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', itching = '0', spongiosis = '0'",6
+50,"definite_borders = '2', fibrosis_papillary_dermis = '0', itching = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+51,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', parakeratosis = '2', spongiosis = '0'",6
+52,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', parakeratosis = '2', spongiosis = '0'",6
+53,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', parakeratosis = '2', spongiosis = '0'",6
+54,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', parakeratosis = '2', spongiosis = '0'",6
+55,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', parakeratosis = '2', spongiosis = '0'",6
+56,"exocytosis = '0', fibrosis_papillary_dermis = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+57,"erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', parakeratosis = '2'",6
+58,"erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', parakeratosis = '2'",6
+59,"erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', parakeratosis = '2', perifollicular_parakeratosis = '0'",6
+60,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', scaling = '2'",6
+61,"band_like_infiltrate = '0', definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+62,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+63,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+64,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', spongiosis = '0'",6
+65,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', spongiosis = '0'",6
+66,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', polygonal_papules = '0', spongiosis = '0'",6
+67,"definite_borders = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', spongiosis = '0'",6
+68,"definite_borders = '2', eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+69,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', scaling = '2', spongiosis = '0'",6
+70,"exocytosis = '0', fibrosis_papillary_dermis = '0', scaling = '2', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+71,"exocytosis = '0', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', scaling = '2', spongiosis = '0'",6
+72,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', scaling = '2', spongiosis = '0'",6
+73,"exocytosis = '0', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', scaling = '2', spongiosis = '0'",6
+74,"exocytosis = '0', fibrosis_papillary_dermis = '0', polygonal_papules = '0', scaling = '2', spongiosis = '0'",6
+75,"exocytosis = '0', fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', scaling = '2', spongiosis = '0'",6
+76,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', spongiosis = '0'",6
+77,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+78,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+79,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', inflammatory_mononuclear_infiltrate = '2', spongiosis = '0'",6
+80,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', melanin_incontinence = '0', spongiosis = '0'",6
+81,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', polygonal_papules = '0', spongiosis = '0'",6
+82,"exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', oral_mucosal_involvement = '0', spongiosis = '0'",6
+83,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', inflammatory_mononuclear_infiltrate = '2', spongiosis = '0'",6
+84,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', koebner_phenomenon = '0', spongiosis = '0'",6
+85,"acanthosis = '2', band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+86,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+87,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+88,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', spongiosis = '0'",6
+89,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', spongiosis = '0'",6
+90,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', polygonal_papules = '0', spongiosis = '0'",6
+91,"acanthosis = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', spongiosis = '0'",6
+92,"acanthosis = '2', eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiosis = '0'",6
+93,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', koebner_phenomenon = '0', spongiosis = '0'",6
+94,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', koebner_phenomenon = '0', spongiosis = '0'",6
+95,"exocytosis = '0', fibrosis_papillary_dermis = '0', koebner_phenomenon = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+96,"exocytosis = '0', fibrosis_papillary_dermis = '0', hyperkeratosis = '0', spongiosis = '0'",6
+97,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiform_pustule = '0', spongiosis = '0'",6
+98,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0'",6
+99,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+100,"band_like_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+101,"exocytosis = '0', fibrosis_papillary_dermis = '0', spongiform_pustule = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+102,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+103,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+104,"exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+105,"exocytosis = '0', fibrosis_papillary_dermis = '0', saw_tooth_appearance_retes = '0', spongiform_pustule = '0', spongiosis = '0'",6
+106,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+107,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+108,"exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+109,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', spongiform_pustule = '0', spongiosis = '0'",6
+110,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_papules = '0', spongiosis = '0'",6
+111,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+112,"exocytosis = '0', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+113,"exocytosis = '0', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', spongiform_pustule = '0', spongiosis = '0'",6
+114,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', melanin_incontinence = '0', spongiosis = '0'",6
+115,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', melanin_incontinence = '0', spongiosis = '0'",6
+116,"exocytosis = '0', fibrosis_papillary_dermis = '0', melanin_incontinence = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+117,"exocytosis = '0', fibrosis_papillary_dermis = '0', polygonal_papules = '0', spongiform_pustule = '0', spongiosis = '0'",6
+118,"exocytosis = '0', fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', spongiform_pustule = '0', spongiosis = '0'",6
+119,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', spongiform_pustule = '0', spongiosis = '0'",6
+120,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', polygonal_papules = '0', spongiosis = '0'",6
+121,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', polygonal_papules = '0', spongiosis = '0'",6
+122,"exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', polygonal_papules = '0', spongiosis = '0'",6
+123,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', oral_mucosal_involvement = '0', spongiosis = '0'",6
+124,"exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', oral_mucosal_involvement = '0', spongiosis = '0'",6
+125,"exocytosis = '0', fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+126,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0'",6
+127,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+128,"eosinophils_infiltrate = '0', exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+129,"eosinophils_infiltrate = '0', erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0'",6
+130,"eosinophils_infiltrate = '0', erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0'",6
+131,"eosinophils_infiltrate = '0', erythema = '2', exocytosis = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0'",6
+132,"band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', parakeratosis = '2', spongiosis = '0'",6
+133,"band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', parakeratosis = '2', spongiosis = '0'",6
+134,"band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+135,"fibrosis_papillary_dermis = '0', follicular_papules = '0', parakeratosis = '2', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+136,"fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', parakeratosis = '2', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+137,"fibrosis_papillary_dermis = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+138,"fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_papules = '0', parakeratosis = '2', spongiosis = '0'",6
+139,"fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_horn_plug = '0', parakeratosis = '2', spongiosis = '0'",6
+140,"fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+141,"fibrosis_papillary_dermis = '0', follicular_papules = '0', melanin_incontinence = '0', parakeratosis = '2', spongiosis = '0'",6
+142,"fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', melanin_incontinence = '0', parakeratosis = '2', spongiosis = '0'",6
+143,"fibrosis_papillary_dermis = '0', melanin_incontinence = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+144,"fibrosis_papillary_dermis = '0', follicular_papules = '0', oral_mucosal_involvement = '0', parakeratosis = '2', spongiosis = '0'",6
+145,"fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', oral_mucosal_involvement = '0', parakeratosis = '2', spongiosis = '0'",6
+146,"fibrosis_papillary_dermis = '0', oral_mucosal_involvement = '0', parakeratosis = '2', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+147,"band_like_infiltrate = '0', definite_borders = '2', fibrosis_papillary_dermis = '0', hyperkeratosis = '0', spongiosis = '0'",6
+148,"definite_borders = '2', fibrosis_papillary_dermis = '0', hyperkeratosis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+149,"definite_borders = '2', fibrosis_papillary_dermis = '0', hyperkeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+150,"definite_borders = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', hyperkeratosis = '0', spongiosis = '0'",6
+151,"definite_borders = '2', fibrosis_papillary_dermis = '0', hyperkeratosis = '0', melanin_incontinence = '0', spongiosis = '0'",6
+152,"band_like_infiltrate = '0', definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0'",6
+153,"band_like_infiltrate = '0', definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+154,"band_like_infiltrate = '0', definite_borders = '2', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+155,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+156,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+157,"definite_borders = '2', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+158,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_papules = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+159,"definite_borders = '2', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+160,"definite_borders = '2', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', saw_tooth_appearance_retes = '0', spongiosis = '0'",6
+161,"definite_borders = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_papules = '0', spongiosis = '0'",6
+162,"definite_borders = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+163,"definite_borders = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+164,"acanthosis = '2', band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0'",6
+165,"acanthosis = '2', band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+166,"acanthosis = '2', band_like_infiltrate = '0', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6
+167,"acanthosis = '2', fibrosis_papillary_dermis = '0', follicular_papules = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+168,"acanthosis = '2', fibrosis_papillary_dermis = '0', follicular_horn_plug = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+169,"acanthosis = '2', fibrosis_papillary_dermis = '0', perifollicular_parakeratosis = '0', spongiosis = '0', vacuolisation_damage_basal_layer = '0'",6
+170,"acanthosis = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_papules = '0', spongiosis = '0'",6
+171,"acanthosis = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', follicular_horn_plug = '0', spongiosis = '0'",6
+172,"acanthosis = '2', fibrosis_papillary_dermis = '0', focal_hypergranulosis = '0', perifollicular_parakeratosis = '0', spongiosis = '0'",6

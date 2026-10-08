@@ -1,0 +1,85 @@
+,Description,Rank
+8,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Nacionality = '1'",4
+9,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', International = '0'",4
+10,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Nacionality = '1'",4
+11,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', International = '0'",4
+15,"Course = '9500', Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0'",4
+16,"Course = '9500', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0'",4
+19,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Marital_status = '1', Nacionality = '1'",4
+20,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', International = '0', Marital_status = '1'",4
+21,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Nacionality = '1'",4
+22,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', International = '0'",4
+25,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Tuition_fees_up_to_date = '1'",4
+26,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Tuition_fees_up_to_date = '1'",4
+28,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Gender = '0', Tuition_fees_up_to_date = '1'",4
+29,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",4
+30,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', International = '0', Tuition_fees_up_to_date = '1'",4
+31,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Educational_special_needs = '0', Gender = '0', Tuition_fees_up_to_date = '1'",4
+44,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",4
+47,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Tuition_fees_up_to_date = '1'",4
+48,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",4
+49,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', International = '0', Tuition_fees_up_to_date = '1'",4
+53,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Tuition_fees_up_to_date = '1'",4
+54,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",4
+55,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Nacionality = '1', Tuition_fees_up_to_date = '1'",4
+56,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', International = '0', Tuition_fees_up_to_date = '1'",4
+57,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Educational_special_needs = '0', Tuition_fees_up_to_date = '1'",4
+60,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",4
+63,"Application_mode = '1', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Scholarship_holder = '1', Tuition_fees_up_to_date = '1'",4
+65,"Curricular_units_1st_sem_(without_evaluations) = '0', Daytime/evening_attendance	 = '1', Debtor = '0', Gender = '0', Scholarship_holder = '1'",4
+67,"Curricular_units_1st_sem_(approved) = '6', Tuition_fees_up_to_date = '1'",4
+70,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '6'",4
+79,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(credited) = '0', Debtor = '0', Gender = '0'",4
+80,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(credited) = '0', Gender = '0'",4
+83,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0'",4
+2,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+6,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Gender = '0'",5
+7,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0'",5
+17,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Marital_status = '1'",5
+18,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Marital_status = '1'",5
+23,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",5
+24,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Previous_qualification = '1'",5
+27,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Gender = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+32,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Gender = '0', Marital_status = '1'",5
+33,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Gender = '0', Marital_status = '1'",5
+34,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",5
+35,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Previous_qualification = '1'",5
+36,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",5
+37,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Marital_status = '1', Previous_qualification = '1'",5
+38,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Previous_qualification = '1'",5
+39,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Nacionality = '1', Previous_qualification = '1'",5
+40,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', International = '0', Previous_qualification = '1'",5
+41,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Marital_status = '1', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",5
+42,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",5
+43,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Marital_status = '1', Previous_qualification = '1'",5
+45,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+46,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+50,"Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Marital_status = '1'",5
+51,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+52,"Curricular_units_2nd_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+58,"Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Debtor = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+59,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0', Marital_status = '1', Tuition_fees_up_to_date = '1'",5
+62,"Application_mode = '1', Curricular_units_1st_sem_(without_evaluations) = '0', Scholarship_holder = '1', Tuition_fees_up_to_date = '1'",5
+66,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(enrolled) = '6'",5
+68,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(credited) = '0', Tuition_fees_up_to_date = '1'",5
+69,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(enrolled) = '6', Tuition_fees_up_to_date = '1'",5
+71,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(enrolled) = '6', Debtor = '0'",5
+72,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(enrolled) = '6', Gender = '0'",5
+73,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(enrolled) = '6'",5
+74,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(credited) = '0', Debtor = '0'",5
+75,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(credited) = '0', Curricular_units_1st_sem_(without_evaluations) = '0'",5
+76,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(credited) = '0', Curricular_units_2nd_sem_(without_evaluations) = '0'",5
+77,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Debtor = '0'",5
+78,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(without_evaluations) = '0', Debtor = '0'",5
+81,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_1st_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",5
+82,"Curricular_units_1st_sem_(approved) = '6', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",5
+0,Curricular_units_2nd_sem_(approved) = '6',6
+1,Curricular_units_1st_sem_(approved) = '7',6
+3,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Tuition_fees_up_to_date = '1'",6
+4,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Tuition_fees_up_to_date = '1'",6
+5,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Gender = '0', Tuition_fees_up_to_date = '1'",6
+12,"Course = '9500', Curricular_units_1st_sem_(without_evaluations) = '0', Curricular_units_2nd_sem_(enrolled) = '8', Previous_qualification = '1'",6
+13,"Course = '9500', Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Previous_qualification = '1'",6
+14,"Curricular_units_2nd_sem_(enrolled) = '8', Curricular_units_2nd_sem_(without_evaluations) = '0', Previous_qualification = '1', Tuition_fees_up_to_date = '1'",6
+61,"Curricular_units_1st_sem_(approved) = '6', Scholarship_holder = '1'",6
+64,"Gender = '0', Scholarship_holder = '1', Tuition_fees_up_to_date = '1'",6

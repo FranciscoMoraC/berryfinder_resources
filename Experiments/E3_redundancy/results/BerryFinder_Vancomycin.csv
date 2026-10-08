@@ -1,0 +1,12 @@
+,Description,Rank
+8,"admission_type = 'EMERGENCY', service_when_culture = 'SURG'",4
+9,"admission_type = 'EMERGENCY', exitus = 'Y'",4
+10,"admission_type = 'EMERGENCY', discharge_location = 'DEAD/EXPIRED'",4
+0,culture_microorganism_name = 'ENTEROCOCCUS FAECIUM',6
+1,culture_specimen_type_description = 'BLOOD CULTURE',6
+2,icu_when_culture = 'NO ICU',6
+3,discharge_location = 'REHAB/DISTINCT PART HOSP',6
+4,service_when_culture = 'OMED',6
+5,"admission_location = 'PHYS REFERRAL/NORMAL DELI', admission_type = 'EMERGENCY'",6
+6,"admission_location = 'TRANSFER FROM HOSP/EXTRAM', patient_gender = 'M'",6
+7,"patient_gender = 'M', service_when_culture = 'SURG'",6
